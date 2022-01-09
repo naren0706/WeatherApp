@@ -1,0 +1,36 @@
+*{
+    box-sizing:border-box;
+}
+
+.app
+{
+    
+    background-size: cover;
+    background-position: bottom;
+    text-align: center;
+    font-size: 40px;
+    
+}
+main
+{
+    min-height: 100vh;
+    padding: 25px;
+}
+.search-box
+{
+    width: 100%;
+    margin: 0 0 75px;
+}
+.search-box .search-bar
+{
+    text-align: center;
+     display: block;
+     align-items: center;
+     width: 100%;
+     padding: 15px;
+     background-color: transparent;
+     margin-top:-25px;
+     border-color: black;
+     font-size: 20px;
+     
+}
