@@ -3,7 +3,7 @@
 }
 
 .app
-	@@ -9,28 +14,106 @@
+{
     background-position: bottom;
     text-align: center;
     font-size: 40px;
